@@ -1,0 +1,4 @@
+ultralytics==8.0.145
+opencv-python==4.7.0.72
+tensorflow==2.11.0
+
